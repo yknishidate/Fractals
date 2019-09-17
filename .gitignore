@@ -1,0 +1,5 @@
+/backup/*
+/render/*
+/julia/backup/*
+/julia/render/*
+/mandel/render/*
